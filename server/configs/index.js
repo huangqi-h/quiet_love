@@ -5,7 +5,7 @@ let config = {
         baseApi: '/api',
     },
     mongodb: {
-        url: process.env.MONGO_URL || 'mongodb://localhost:27017/vue-blog',
+        url: process.env.MONGO_URL || 'mongodb://localhost:27017/quiet_love',
     },
     jwt: {
         secret: 'me', // 默认

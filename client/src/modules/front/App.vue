@@ -11,7 +11,7 @@
             </transition>
         </div>
         <footer class="footer">
-            <p>Copyright © <a href='https://github.com/huangqi-h'>BUPT-HJM</a>&nbsp;&nbsp;2017 </p>
+            <p>Copyright © <a href='https://github.com/huangqi-h'>quietLove</a>&nbsp;&nbsp;2017 </p>
             <p>Created by <a href="https://github.com/huangqi-h/quiet_love.git">vue-blog</a></p>
         </footer>
         <!-- 防止disqus导致首页报错 -->
